@@ -56,6 +56,7 @@ Shortcuts:
 - Toggle full screen: esc or double left mouse click on video
 - Quit: q
 - Toggle play/pause: space bar
+- Toggle subtitles: v
 - Toggle stats: t (if you bring this up, it will show you the increased frame rate, which should be matched to your PCs output to the monitor
 
 Hopefully this saves a few people the hours of pain and frustration I endured to get this working.
