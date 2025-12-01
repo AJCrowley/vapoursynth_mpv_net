@@ -7,7 +7,7 @@ Smoother video playback highlights bad set design, bad acting, bad effects that 
 
 The smoother playback almost places you in the room with the action, the enhanced realism as previously mentioned can dissolve the movie magic, but once you get used to it, it's hard to go back.
 
-I have struggled to configure VapourSynth to interpolate frames to increase smooth higher framerate playback to the best of my ability. This can lead to artifacting in scenes of high motion, and it can be particularly notable when a group of vertical lines (such as blinds) move quickly across the screen. I have tweaked the configuration to the best of my ability, but you are welcome to adjust the parameters to try and achieve better results by editing the file VapourSynth\vapoursynth.vpy and playing with the super_params and analyse_params string variables.
+I have struggled to configure VapourSynth to interpolate frames to increase smooth higher framerate playback to the best of my ability. This can lead to artifacting in scenes of high motion, and it can be particularly notable when a group of vertical lines (such as blinds) move quickly across the screen. I have tweaked the configuration to the best of my ability, but you are welcome to adjust the parameters to try and achieve better results by editing the file VapourSynth\vapoursynth.vpy and playing with the super_params and analyse_params string variables. If you think you've acheived a better result, please feel free to put in a PR, or if you don't know how to do that, just post your config params in the Issues tab and I'll see it and update the script if it works better for me as well.
 
 ## How to Install This Script
 
